@@ -1,0 +1,17 @@
+file_id,word,start_time_seconds,end_time_seconds,duration_seconds
+audio1_1_english,he,0.9,0.99,0.09
+audio1_1_english,didn't,0.99,1.29,0.30000000000000004
+audio1_1_english,feel,1.29,1.5,0.20999999999999996
+audio1_1_english,like,1.5,1.75,0.25
+audio1_1_english,working,1.75,2.13,0.38
+audio1_1_english,<eps>,2.13,2.37,0.24
+audio1_2_english,<eps>,0.0,0.74,0.74
+audio1_2_english,she,0.74,0.91,0.17000000000000004
+audio1_2_english,did,0.91,1.1,0.19000000000000006
+audio1_2_english,not,1.1,1.27,0.16999999999999993
+audio1_2_english,find,1.27,1.62,0.3500000000000001
+audio1_2_english,keys,1.62,1.97,0.34999999999999987
+audio1_2_english,in,1.97,2.06,0.09000000000000008
+audio1_2_english,the,2.06,2.14,0.08000000000000007
+audio1_2_english,bag,2.14,2.53,0.3899999999999997
+audio1_2_english,<eps>,2.53,4.00394,1.4739400000000002
