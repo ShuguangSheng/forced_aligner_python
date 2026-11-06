@@ -1,4 +1,6 @@
-# Forced alignment with the Montreal Forced Aligner (Python)
+# Montreal Forced Alignment for Python: Phoneme-Level Speech-Text Synchronization
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24014114.svg)](https://doi.org/10.5281/zenodo.24014114)
 
 This module shows how to use the open-source [Montreal Forced Aligner (MFA)](https://montreal-forced-aligner.readthedocs.io/) to automatically align speech with its transcription at the **word** and **phoneme** level. The result is time-aligned annotation that is useful for phonetics, prosody and multimodal communication research.
 
@@ -108,6 +110,14 @@ The CSV tables contain `file_id`, the word or phone, `start_time_seconds`, `end_
 - `mfa: command not found`: activate the `aligner` environment before starting Jupyter.
 - Alignment fails for a file: make sure the dictionary and acoustic model share the same phoneset and that the transcript matches the language of the recording.
 - Wrong transcript for a recording: check that audio files and CSV rows are in the same order.
+
+## Citation
+
+> Sheng, S., Ahmar, D., & Pouw, W. (2025). Montreal Forced Alignment for Python: Phoneme-Level Speech-Text Synchronization (Version 1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.24014114
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24014114.svg)](https://doi.org/10.5281/zenodo.24014114)
+
+Please also cite the Montreal Forced Aligner: McAuliffe, M., Socolof, M., Mihuc, S., Wagner, M., & Sonderegger, M. (2017). Montreal Forced Aligner: Trainable text-speech alignment using Kaldi. *Proceedings of Interspeech 2017*, 498–502. https://doi.org/10.21437/Interspeech.2017-1386
 
 ## Licence
 

@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below. Please also cite the Montreal Forced Aligner (see references)."
+type: software
+title: "Montreal Forced Alignment for Python: Phoneme-Level Speech-Text Synchronization"
+authors:
+  - family-names: Sheng
+    given-names: Shuguang
+  - family-names: Ahmar
+    given-names: Davide
+  - family-names: Pouw
+    given-names: Wim
+version: 1.0.0
+doi: 10.5281/zenodo.24014114
+license: CC-BY-4.0
+repository-code: "https://github.com/ShuguangSheng/forced_aligner_python"
+keywords:
+  - forced alignment
+  - Montreal Forced Aligner
+  - speech-text synchronization
+  - phoneme
+  - TextGrid
+references:
+  - type: conference-paper
+    title: "Montreal Forced Aligner: Trainable text-speech alignment using Kaldi"
+    authors:
+      - family-names: McAuliffe
+        given-names: Michael
+      - family-names: Socolof
+        given-names: Michaela
+      - family-names: Mihuc
+        given-names: Sarah
+      - family-names: Wagner
+        given-names: Michael
+      - family-names: Sonderegger
+        given-names: Morgan
+    collection-title: "Proceedings of Interspeech 2017"
+    year: 2017
+    start: 498
+    end: 502
+    doi: 10.21437/Interspeech.2017-1386
